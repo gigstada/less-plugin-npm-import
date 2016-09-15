@@ -1,9 +1,7 @@
-[![NPM version](https://badge.fury.io/js/less-plugin-npm-import.svg)](http://badge.fury.io/js/less-plugin-npm-import) [![Dependencies](https://david-dm.org/less/less-plugin-npm-import.svg)](https://david-dm.org/less/less-plugin-npm-import) [![devDependency Status](https://david-dm.org/less/less-plugin-npm-import/dev-status.svg)](https://david-dm.org/less/less-plugin-npm-import#info=devDependencies) [![optionalDependency Status](https://david-dm.org/less/less-plugin-npm-import/optional-status.svg)](https://david-dm.org/less/less-plugin-npm-import#info=optionalDependencies)
-
-less-plugin-npm-import
+less-plugin-npm-import-reloaded
 ========================
 
-Adds the ability for less to import from npm packages
+Fork of [less-plugin-npm-import](https://github.com/less/less-plugin-npm-import) with feature for specifying base directory added from [unmerged pull request](https://github.com/less/less-plugin-npm-import/pull/19). Original module adds the ability for less to import from npm packages.
 
 ## lessc usage
 
